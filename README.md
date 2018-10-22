@@ -1,7 +1,7 @@
 ### Administrate
 ---
 
-https://github.com/thoughtbot/administratea
+https://github.com/thoughtbot/administrate
 
 
 ```
